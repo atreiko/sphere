@@ -1,6 +1,6 @@
 # SPHERE Responsive Landing Page
 
-View the project: `https://sphere-three.vercel.app/`  
+View the project: https://sphere-three.vercel.app/  
 
 Open with live server `sphere/index.html`
 
